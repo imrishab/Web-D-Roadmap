@@ -50,22 +50,14 @@ Start with HTML as it is the skeleton of your website :
 
 Now we want to give some styling ( colors, custom fonts ) to our website, so we need to learn CSS : 
  
-- [x]
-
-- [x]
-
-- [x]
-
-- [x]
-
-- [x]
-
-- [x]
-
-- [x]
-
-- [x]
-
+1. Learn CSS syntax and selectors. (Basics of CSS)
+2. Study box model and layout. (Layouts and positioning)
+3. Understand typography and fonts. (Fonts and text styling)
+4. Master color and background properties. (Color and backgrounds)
+5. Explore CSS3 animations and transitions. (Animations and transitions)
+6. Practice responsive design and media queries. (Responsive design)
+7. Dive deep into CSS frameworks. (Frameworks and libraries)
+8. Keep learning new CSS features. (Continuing education)
 
 
 
