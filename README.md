@@ -48,16 +48,46 @@ Start with HTML as it is the skeleton of your website :
 
 - [x] Accessibility: using semantic HTML for screen readers and other assistive technology
 
-Now we want to give some styling ( colors, custom fonts ) to our website, so we need to learn CSS : 
- 
-1. Learn CSS syntax and selectors. (Basics of CSS)
-2. Study box model and layout. (Layouts and positioning)
-3. Understand typography and fonts. (Fonts and text styling)
-4. Master color and background properties. (Color and backgrounds)
-5. Explore CSS3 animations and transitions. (Animations and transitions)
-6. Practice responsive design and media queries. (Responsive design)
-7. Dive deep into CSS frameworks. (Frameworks and libraries)
-8. Keep learning new CSS features. (Continuing education)
+Now, adding some style in the website ( colour, border etc. ) : 
+
+start with the following topics
+
+- [x] Learn about Basic selectors (e.g. element, class, ID) and how they work
+
+- [x] Learn about padding, border, and margin properties
+
+- [x] Understanding box sizing (e.g. content-box, border-box)
+
+- [x] How to use the box model to create layout and spacing on the page
+
+- [x] Display property
+
+- [x] Block-level elements
+
+- [x] Inline-level elements
+
+- [x] Inline-block elements
+
+- [x] Flexbox *
+
+- [x] Grid *
+
+- [x] Understanding how to use these properties to create layout on the page
+
+- [x] Positioning
+
+- [x] Static positioning
+
+- [x] Relative positioning
+
+- [x] Absolute positioning
+
+- [x] Fixed positioning
+
+- [x] Understanding how to use positioning to control the layout of elements on the page
+
+- [x] Make some projects using pure html + css
+
 
 
 
