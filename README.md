@@ -88,6 +88,21 @@ start with the following topics
 
 - [x] Make some projects using pure html + css
 
+Here are some ideas for you to get started with:
+
+- [x] Personal Portfolio Website
+
+- [x] Blog Website
+
+- [x] E-commerce Website
+
+- [x] Social Media website
+
+- [x] Landing Page
+
+- [x] Online Quiz Website
+
+- [x] Weather App using APIs ( no Javascript needed )
 
 
 
